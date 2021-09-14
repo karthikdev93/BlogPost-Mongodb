@@ -1,7 +1,6 @@
 {
   "name": "ejs-challenge",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,5 +13,15 @@
     "express": "^4.17.1",
     "lodash": "^4.17.21",
     "mongoose": "^5.13.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karthikdev93/BlogPost-Mongodb.git"
+  },
+  "bugs": {
+    "url": "https://github.com/karthikdev93/BlogPost-Mongodb/issues"
+  },
+  "homepage": "https://github.com/karthikdev93/BlogPost-Mongodb#readme",
+  "description": ""
 }
